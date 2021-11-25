@@ -12,7 +12,7 @@ Setelah download selesai, buka virtual box dan buat machine baru dan setting sep
 
 
 
-![](C:\Users\syahrul suhura\Pictures\a.png)
+![a](https://user-images.githubusercontent.com/93044506/143465815-ce16de45-573b-4eda-b902-3537b263b669.png)
 
 ```markdown
 sesuaikan memori dan next
